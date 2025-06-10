@@ -25,7 +25,7 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://github.com/your-username/gpt2-chatbot.git
+git clone https://github.com/Swaraj0003/gpt2-chatbot.git
 cd gpt2-chatbot
 Install dependencies
 
