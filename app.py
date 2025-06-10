@@ -5,7 +5,7 @@ import torch
 
 st.title("🔥 GPT-2 Text Generator (Open Source)")
 
-prompt = st.text_input("Enter your prompt:", "Once upon a time...")
+prompt = st.text_input("Enter your prompt:", "what is AI...")
 
 model_name = "gpt2"
 tokenizer = GPT2Tokenizer.from_pretrained(model_name)
